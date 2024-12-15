@@ -2,3 +2,5 @@ apple
 orange
 bannan
 cereal
+milk
+cucumber
